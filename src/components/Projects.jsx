@@ -6,7 +6,7 @@ const Projects = () => {
     {
       title: "Phish Guard",
       role: "AI/Security Developer",
-      image: "/src/assets/Phishguard.png",
+      image: "/images/Phishguard.png",
       description: "ML system detecting phishing URLs using LSTM and Random Forest models. Built API interfaces for secure data exchange and real-time classification results.",
       tech: ["Python", "LSTM", "Random Forest", "JavaScript"],
       github: "https://github.com/jagdeep2001kainth/CYB-Capstone-Project",
@@ -15,7 +15,7 @@ const Projects = () => {
     {
       title: "Prince Urban Knot",
       role: "Full Stack Engineer",
-      image: "/src/assets/PrinceUrbanKnot.png",
+      image: "/images/Princeurbanknot.png",
       description: "E-commerce platform with Spring Boot/React. Implemented BCrypt password hashing and secure backend validation for user transactions.",
       tech: ["Java", "Spring Boot", "MySQL", "React"],
       github: "https://github.com/jagdeep2001kainth/prince-urban-knot-backend",
@@ -24,7 +24,7 @@ const Projects = () => {
     {
       title: "Firewall Automation",
       role: "Security Engineer",
-      image: "/src/assets/Firewall.png",
+      image: "/images/Firewall.png",
       description: "Automated host-based firewall policy configuration and validation. Performed network diagnostics and hardening using TCP/IP and PowerShell.",
       tech: ["Linux", "PowerShell", "TCP/IP", "CLI"],
       github: "https://github.com/jagdeep2001kainth/Configuring-Firewall-using-Automation-in-Python-Project",
