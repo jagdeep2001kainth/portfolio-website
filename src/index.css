@@ -5,16 +5,16 @@
   --bg-gradient: radial-gradient(circle at top right, #0a0f18, #050505);
   --text-main: #f0f0f0;
   --text-muted: #a0aab5;
-  
+
   --accent-cyan: #00f0ff;
   --accent-blue: #0a4fec;
   --accent-gradient: linear-gradient(135deg, var(--accent-cyan), var(--accent-blue));
-  
+
   --glass-bg: rgba(255, 255, 255, 0.03);
   --glass-border: rgba(255, 255, 255, 0.08);
   --glass-glow: 0 8px 32px 0 rgba(0, 240, 255, 0.1);
   --glass-blur: blur(16px);
-  
+
   --font-main: 'Inter', sans-serif;
   --font-heading: 'Outfit', sans-serif;
 }
@@ -46,7 +46,10 @@ ul {
   list-style: none;
 }
 
-h1, h2, h3, h4 {
+h1,
+h2,
+h3,
+h4 {
   font-family: var(--font-heading);
   letter-spacing: -0.02em;
 }
