@@ -19,6 +19,7 @@ const Projects = () => {
       description: "E-commerce platform with Spring Boot/React. Implemented BCrypt password hashing and secure backend validation for user transactions.",
       tech: ["Java", "Spring Boot", "MySQL", "React"],
       github: "https://github.com/jagdeep2001kainth/prince-urban-knot-backend",
+      LiveDemo: "https://prince-urban-knot-frontend.vercel.app/",
       demo: null
     },
     {
