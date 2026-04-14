@@ -38,7 +38,7 @@ const Contact = () => {
               <GithubLogo size={36} weight="duotone" />
 
             </a>
-            <a href="https://x.com/jagdeep_ka99815" target="_blank" rel="noopener noreferrer" className="social-icon">
+            <a href="mailto:jagdeep3644kainth@gmail.com" target="_blank" rel="noopener noreferrer" className="social-icon">
               <XLogo size={36} weight="duotone" />
             </a>
 
