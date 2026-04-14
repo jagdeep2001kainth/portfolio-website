@@ -13,7 +13,7 @@ const Contact = () => {
         </p>
 
         <div className="glass-panel" style={{ padding: '4rem', display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '2rem' }}>
-          <a href="jagdeep3644kainth@gmail.com" className="btn btn-primary" style={{ display: 'inline-flex', alignItems: 'center', gap: '0.5rem', fontSize: '1.2rem', padding: '1rem 2.5rem' }}>
+          <a href="mailto:jagdeep3644kainth@gmail.com" className="btn btn-primary" style={{ display: 'inline-flex', alignItems: 'center', gap: '0.5rem', fontSize: '1.2rem', padding: '1rem 2.5rem' }}>
             <EnvelopeSimple size={24} weight="bold" /> Say Hello
           </a>
 
@@ -38,7 +38,7 @@ const Contact = () => {
               <GithubLogo size={36} weight="duotone" />
 
             </a>
-            <a href="mailto:jagdeep3644kainth@gmail.com" target="_blank" rel="noopener noreferrer" className="social-icon">
+            <a href="https://x.com/jagdeep_ka99815" target="_blank" rel="noopener noreferrer" className="social-icon">
               <XLogo size={36} weight="duotone" />
             </a>
 
