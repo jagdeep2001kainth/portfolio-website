@@ -33,11 +33,11 @@ const Hero = () => {
         Hi, I'm <br /><span className="text-gradient">Jagdeep Kainth</span>
       </h1>
       <h2 style={{ fontSize: 'clamp(1.2rem, 3vw, 1.8rem)', fontWeight: 300, color: 'var(--text-muted)', marginBottom: '2rem', maxWidth: '800px', lineHeight: '1.8' }}>
-        <span className="text-cyan" style={{ fontWeight: 600 }}>Cyber Security Engineer</span> |Security Engineer | Secure Software Development (SDLC) | Application & Network Security | Penetration Testing | Java/Spring Boot | AWS
+        <span className="text-cyan" style={{ fontWeight: 600 }}>Full Stack Software Engineer</span> | Java · Spring Boot · React · MySQL · AWS
       </h2>
 
       <p style={{ maxWidth: '650px', marginBottom: '3rem', fontSize: '1.1rem', color: '#c0cad5' }}>
-        Security-focused Software Engineer with hands-on experience in backend development, automation, and secure system design. Strong foundation in network security, malware analysis, and ethical hacking, with practical exposure to application and network-level attacks including DoS, DDoS, XSS, and SQL injection. Experienced in implementing encryption (AES-GCM, Argon2), system hardening, and log analysis. Familiar with cloud security concepts in AWS and skilled in building scalable APIs and security-driven solutions.
+        Security-aware Full Stack Engineer with hands-on experience building scalable web applications using Java, Spring Boot, React, and MySQL. Experienced in REST API design, CI/CD pipelines, and cloud deployment on AWS. Strong foundation in secure software development practices including authentication, encryption, and OWASP standards.
 
 
       </p>

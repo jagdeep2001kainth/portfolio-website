@@ -11,13 +11,11 @@ const About = () => {
 
         <div className="glass-panel" style={{ padding: '3rem', marginBottom: '4rem' }}>
           <p style={{ fontSize: '1.2rem', color: 'var(--text-main)', marginBottom: '1.5rem', lineHeight: '1.8' }}>
-            I am a Web Developer and Data Analyst specializing in secure data processing, backend development, and performance optimization. I manage and prepare large-scale datasets for web-based applications, leveraging automation to streamline workflows and improve operational efficiency.
+            I am a Full Stack Software Engineer specializing in backend development with Java and Spring Boot, frontend development with React, and cloud deployment on AWS. I build scalable, secure, and performant web applications from end to end.
 
           </p>
           <p style={{ fontSize: '1.1rem', color: 'var(--text-muted)', lineHeight: '1.8' }}>
-            My work includes enhancing application architecture, implementing new features, and improving user interface performance to ensure a reliable and scalable digital experience. I also monitor and maintain API integrations to support stable system performance and data integrity.
-
-            In addition to development responsibilities, I conduct periodic security assessments and penetration testing to identify vulnerabilities and strengthen application security. By integrating secure development practices into the software lifecycle, I help maintain a resilient, efficient, and high-quality digital platform.
+            My experience includes designing RESTful APIs, optimizing database performance with MySQL and PostgreSQL, and implementing CI/CD pipelines. I bring a security-first mindset to every project, ensuring applications are built with best practices from the ground up.
           </p>
         </div>
 
@@ -26,28 +24,25 @@ const About = () => {
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '2rem' }}>
           <div className="glass-panel" style={{ padding: '2rem', textAlign: 'center' }}>
             <Shield size={56} weight="duotone" className="text-cyan" style={{ marginBottom: '1.5rem' }} />
-            <h4 style={{ fontSize: '1.4rem', marginBottom: '1rem', fontWeight: 700 }}>Cyber Security</h4>
+            <h4 style={{ fontSize: '1.4rem', marginBottom: '1rem', fontWeight: 700 }}>Backend Development</h4>
             <p style={{ color: 'var(--text-muted)', fontSize: '0.95rem', lineHeight: '1.6' }}>
-              Threat modeling, vulnerability assessment, malware analysis, and network security.
-              Implementing zero-trust architectures and incident response.
+              Java, Spring Boot, REST APIs, MySQL
             </p>
           </div>
 
           <div className="glass-panel" style={{ padding: '2rem', textAlign: 'center' }}>
             <LockKey size={56} weight="duotone" className="text-cyan" style={{ marginBottom: '1.5rem' }} />
-            <h4 style={{ fontSize: '1.4rem', marginBottom: '1rem', fontWeight: 700 }}>AppSec</h4>
+            <h4 style={{ fontSize: '1.4rem', marginBottom: '1rem', fontWeight: 700 }}>Frontend Development</h4>
             <p style={{ color: 'var(--text-muted)', fontSize: '0.95rem', lineHeight: '1.6' }}>
-              SAST/DAST integration, secure code review, OAuth/JWT authentication flows,
-              and mitigating OWASP Top 10 vulnerabilities.
+              React, JavaScript, responsive UI
             </p>
           </div>
 
           <div className="glass-panel" style={{ padding: '2rem', textAlign: 'center' }}>
             <CodeBlock size={56} weight="duotone" className="text-cyan" style={{ marginBottom: '1.5rem' }} />
-            <h4 style={{ fontSize: '1.4rem', marginBottom: '1rem', fontWeight: 700 }}>Full Stack Dev</h4>
+            <h4 style={{ fontSize: '1.4rem', marginBottom: '1rem', fontWeight: 700 }}>Cloud & DevOps</h4>
             <p style={{ color: 'var(--text-muted)', fontSize: '0.95rem', lineHeight: '1.6' }}>
-              Modern JavaScript (React, Node.js), robust API design, database management,
-              and designing scalable, visually engaging web applications.
+              AWS (EC2, S3, RDS), CI/CD, Jenkins
             </p>
           </div>
         </div>

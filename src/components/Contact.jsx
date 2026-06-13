@@ -38,6 +38,20 @@ const Contact = () => {
               <GithubLogo size={36} weight="duotone" />
 
             </a>
+            <a
+              href="https://leetcode.com/u/jagdeepkainth/"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ color: 'var(--text-muted)', transition: '0.3s' }}
+              className="social-icon">
+              <img
+                src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+                alt="LeetCode"
+                style={{ width: '36px', height: '36px', filter: 'invert(1) opacity(0.6)', transition: '0.3s' }}
+              />
+
+            </a>
+
             <a href="https://x.com/jagdeep_ka99815" target="_blank" rel="noopener noreferrer" className="social-icon">
               <XLogo size={36} weight="duotone" />
             </a>

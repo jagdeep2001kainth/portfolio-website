@@ -8,11 +8,11 @@ const Experience = () => {
             role: "Web Developer",
             period: "June 2025 – Present",
             bullets: [
+                "Developed secure backend services using Spring Boot and RESTful APIs, optimizing integration with React frontends in distributed Linux environments.",
                 "Architected an end-to-end AI content pipeline using Python and Gemini API to automate the revitalization of 15,000+ legacy assets, reducing manual content overhead by 90%.",
                 "Engineered a secure automated synchronization tool to map product metadata from CSVs to AI-generated imagery, ensuring 100% accuracy in bulk-uploading for a 15-year-old inventory catalog.",
-                "Developed secure backend services using Spring Boot and RESTful APIs, optimizing integration with React frontends in distributed Linux environments.",
-                "Implemented automated CI/CD pipelines using Jenkins, Maven, and Git, utilizing SonarQube for static code analysis to enforce secure coding practices.",
-                "Optimized MySQL/PostgreSQL data persistence with secure SQL queries to prevent injection vulnerabilities and improve API reliability."
+                "Optimized MySQL/PostgreSQL data persistence with secure SQL queries to prevent injection vulnerabilities and improve API reliability.",
+                "Implemented automated CI/CD pipelines using Jenkins, Maven, and Git, utilizing SonarQube for static code analysis to enforce secure coding practices."
             ]
         },
         {

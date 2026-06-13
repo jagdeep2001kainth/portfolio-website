@@ -7,7 +7,7 @@ const Projects = () => {
       title: "Phish Guard",
       role: "AI/Security Developer",
       image: "/images/Phishguard.png",
-      description: "ML system detecting phishing URLs using LSTM and Random Forest models. Built API interfaces for secure data exchange and real-time classification results.",
+      description: "Built an ML-powered URL classification system using LSTM and Random Forest models. Designed and exposed REST API endpoints for real-time predictions with sub-100ms response time.",
       tech: ["Python", "LSTM", "Random Forest", "JavaScript"],
       github: "https://github.com/jagdeep2001kainth/CYB-Capstone-Project",
       demo: null
@@ -16,19 +16,10 @@ const Projects = () => {
       title: "Prince Urban Knot",
       role: "Full Stack Engineer",
       image: "/images/Princeurbanknot.png",
-      description: "E-commerce platform with Spring Boot/React. Implemented BCrypt password hashing and secure backend validation for user transactions.",
+      description: "Full stack e-commerce platform built with React and Spring Boot. Implemented secure user authentication with BCrypt, RESTful product/order APIs, and MySQL database with optimized queries.",
       tech: ["Java", "Spring Boot", "MySQL", "React"],
       github: "https://github.com/jagdeep2001kainth/prince-urban-knot-backend",
       demo: "https://prince-urban-knot-frontend.vercel.app/"
-    },
-    {
-      title: "Firewall Automation",
-      role: "Security Engineer",
-      image: "/images/Firewall.png",
-      description: "Automated host-based firewall policy configuration and validation. Performed network diagnostics and hardening using TCP/IP and PowerShell.",
-      tech: ["Linux", "PowerShell", "TCP/IP", "CLI"],
-      github: "https://github.com/jagdeep2001kainth/Configuring-Firewall-using-Automation-in-Python-Project",
-      demo: null
     }
   ];
 
