@@ -6,7 +6,7 @@ const Projects = () => {
     {
       title: "Phish Guard",
       role: "Full-Stack AI & Security Developer",
-      image: "/images/UI2.png",
+      image: "/images/UI 2.png",
       description: "Built and deployed a production-grade phishing email detection platform using a three-tier microservices architecture. Developed a React frontend, Spring Boot REST API, and Flask-based ML service powered by a Random Forest model to analyze email content in real time and generate phishing confidence scores. Implemented secure service-to-service communication between Java and Python microservices across cloud environments, transforming an academic research project into a scalable full-stack application.",
       tech: ["React", "Spring Boot", "Python", "Flask", "Random Forest", "REST API", "Microservices", "Render", "Vercel"],
       github: "https://github.com/jagdeep2001kainth/phish-guard-frontend",
