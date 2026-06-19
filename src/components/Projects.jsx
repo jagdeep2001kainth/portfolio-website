@@ -5,12 +5,12 @@ const Projects = () => {
   const projectData = [
     {
       title: "Phish Guard",
-      role: "AI/Security Developer",
-      image: "/images/Phishguard.png",
-      description: "Built an ML-powered URL classification system using LSTM and Random Forest models. Designed and exposed REST API endpoints for real-time predictions with sub-100ms response time.",
-      tech: ["Python", "LSTM", "Random Forest", "JavaScript"],
-      github: "https://github.com/jagdeep2001kainth/CYB-Capstone-Project",
-      demo: null
+      role: "Full-Stack AI & Security Developer",
+      image: "/images/UI2.png",
+      description: "Built and deployed a production-grade phishing email detection platform using a three-tier microservices architecture. Developed a React frontend, Spring Boot REST API, and Flask-based ML service powered by a Random Forest model to analyze email content in real time and generate phishing confidence scores. Implemented secure service-to-service communication between Java and Python microservices across cloud environments, transforming an academic research project into a scalable full-stack application.",
+      tech: ["React", "Spring Boot", "Python", "Flask", "Random Forest", "REST API", "Microservices", "Render", "Vercel"],
+      github: "https://github.com/jagdeep2001kainth/phish-guard-frontend",
+      demo: "https://phish-guard-frontend-chi.vercel.app/"
     },
     {
       title: "Prince Urban Knot",
