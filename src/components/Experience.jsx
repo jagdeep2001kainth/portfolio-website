@@ -8,11 +8,14 @@ const Experience = () => {
             role: "Web Developer",
             period: "June 2025 – Present",
             bullets: [
-                "Developed secure backend services using Spring Boot and RESTful APIs, optimizing integration with React frontends in distributed Linux environments.",
-                "Architected an end-to-end AI content pipeline using Python and Gemini API to automate the revitalization of 15,000+ legacy assets, reducing manual content overhead by 90%.",
-                "Engineered a secure automated synchronization tool to map product metadata from CSVs to AI-generated imagery, ensuring 100% accuracy in bulk-uploading for a 15-year-old inventory catalog.",
-                "Optimized MySQL/PostgreSQL data persistence with secure SQL queries to prevent injection vulnerabilities and improve API reliability.",
-                "Implemented automated CI/CD pipelines using Jenkins, Maven, and Git, utilizing SonarQube for static code analysis to enforce secure coding practices."
+                "Developed and maintained backend applications using Java, Spring Boot, and RESTful APIs to support scalable web-based business solutions.",
+                "Designed and integrated API endpoints, business logic, and database interactions while collaborating with stakeholders to deliver new application features and enhancements.",
+                "Built and optimized data processing workflows using Python automation, reducing manual effort and improving operational efficiency across large-scale content management processes.",
+                "Architected an AI-powered content pipeline leveraging Python and Gemini APIs to automate processing and enrichment of 15,000+ legacy digital assets, reducing manual content overhead by 90%.",
+                "Worked extensively with MySQL, data validation workflows, and application integrations to ensure data consistency, reliability, and system performance.",
+                "Automated software delivery processes through CI/CD pipelines using Git, Jenkins, Maven, and Gradle, supporting reliable deployments and streamlined development workflows.",
+                "Monitored and troubleshot Linux-based application environments, performing root cause analysis and resolving production issues to improve system stability and performance.",
+                "Collaborated across engineering and business teams to analyze requirements, implement solutions, and support the full software development lifecycle from design through deployment."
             ]
         },
         {
@@ -21,9 +24,14 @@ const Experience = () => {
             role: "Technology Support Associate Intern",
             period: "Jan 2025 – May 2025",
             bullets: [
-                "Analyzed production issues and debugged backend applications in secure environments.",
-                "Managed issue tracking and system monitoring using JIRA in an Agile workflow.",
-                "Authored technical architecture documentation for cross-functional engineering teams."
+                "Collaborated with senior software engineers during the development of an enterprise web application, providing security-focused recommendations throughout the software development lifecycle",
+                "Reviewed application workflows, authentication mechanisms, and data handling processes to identify security risks and align implementations with industry best practices and compliance requirements",
+                "Assisted engineering teams in designing secure application architectures by applying principles from NIST, GDPR, HIPAA, and PCI-DSS frameworks",
+                "Participated in application testing, validation, and troubleshooting activities to improve system reliability, functionality, and security prior to production deployment",
+                "Analyzed network traffic, system logs, and application behavior using Linux and TCP/IP fundamentals to support issue investigation and root cause analysis",
+                "Worked closely with cross-functional teams to document technical requirements, security controls, risk mitigation strategies, and development processes using JIRA and Agile workflows",
+                "Contributed to vulnerability assessments and secure software development initiatives, helping engineering teams strengthen application security and reduce potential attack surfaces"
+
             ]
         }
     ];

@@ -15,10 +15,10 @@ const Projects = () => {
     {
       title: "Prince Urban Knot",
       role: "Full Stack Engineer",
-      image: "/images/Princeurbanknot.png",
-      description: "Full stack e-commerce platform built with React and Spring Boot. Implemented secure user authentication with BCrypt, RESTful product/order APIs, and MySQL database with optimized queries.",
-      tech: ["Java", "Spring Boot", "MySQL", "React"],
-      github: "https://github.com/jagdeep2001kainth/prince-urban-knot-backend",
+      image: "/images/1.png",
+      description: "Prince Urban Knot is a full-stack e-commerce platform built with React, Spring Boot, and MySQL that enables users to browse products by category, view detailed product pages with multiple images, manage shopping carts, and track order history. The application leverages RESTful APIs to facilitate communication between frontend and backend services and implements secure authentication and role-based authorization using JWT, Spring Security, and BCrypt password hashing. A normalized MySQL database and JPA-powered data model support scalable product management, including a multi-image architecture integrated with Cloudinary for optimized content delivery. To streamline administration, I developed a CSV-based bulk upload system capable of importing over 122 products through custom Spring Boot endpoints. I also optimized application performance by redesigning product-loading workflows and implementing category-based filtering to reduce unnecessary data transfer and improve responsiveness. The backend was containerized using Docker and deployed on Render, while the React frontend was deployed on Vercel, with environment-based configuration management and production monitoring implemented to ensure reliability and maintainability.",
+      tech: ["React", "Spring Boot", "MySQL", "REST APIs", "JWT", "Cloudnary", "Docker", "Vercel", "Render"],
+      github: "https://github.com/jagdeep2001kainth/prince-urban-knot-frontend",
       demo: "https://prince-urban-knot-frontend.vercel.app/"
     }
   ];

@@ -11,11 +11,11 @@ const About = () => {
 
         <div className="glass-panel" style={{ padding: '3rem', marginBottom: '4rem' }}>
           <p style={{ fontSize: '1.2rem', color: 'var(--text-main)', marginBottom: '1.5rem', lineHeight: '1.8' }}>
-            I am a Full Stack Software Engineer specializing in backend development with Java and Spring Boot, frontend development with React, and cloud deployment on AWS. I build scalable, secure, and performant web applications from end to end.
+            I'm a Software Engineer passionate about building scalable web applications, backend systems, and cloud-based solutions that solve real-world problems. My experience spans full-stack development with Java, Spring Boot, React, Python, SQL, and modern deployment platforms, allowing me to design, develop, and deploy applications from concept to production.
 
           </p>
           <p style={{ fontSize: '1.1rem', color: 'var(--text-muted)', lineHeight: '1.8' }}>
-            My experience includes designing RESTful APIs, optimizing database performance with MySQL and PostgreSQL, and implementing CI/CD pipelines. I bring a security-first mindset to every project, ensuring applications are built with best practices from the ground up.
+            I enjoy building software that combines clean architecture, intuitive user experiences, and reliable backend services. From developing secure REST APIs and full-stack e-commerce platforms to architecting AI-powered automation workflows and integrating machine learning services, I enjoy working across the entire software development lifecycle.
           </p>
         </div>
 

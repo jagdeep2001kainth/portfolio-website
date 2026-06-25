@@ -37,7 +37,8 @@ const Hero = () => {
       </h2>
 
       <p style={{ maxWidth: '650px', marginBottom: '3rem', fontSize: '1.1rem', color: '#c0cad5' }}>
-        Security-aware Full Stack Engineer with hands-on experience building scalable web applications using Java, Spring Boot, React, and MySQL. Experienced in REST API design, CI/CD pipelines, and cloud deployment on AWS. Strong foundation in secure software development practices including authentication, encryption, and OWASP standards.
+        Software Engineer with experience developing full-stack web applications, RESTful APIs, automation solutions, and cloud-deployed systems using Java, Spring Boot, React, Python, and SQL. Experienced in designing scalable backend services, integrating frontend and backend applications, and deploying production workloads across AWS, Render, and Vercel environments. Proven ability to build automation pipelines, optimize application performance, and collaborate across cross-functional teams throughout the software development lifecycle. Strong foundation in software engineering principles, cloud technologies, Linux systems, CI/CD practices, and secure application development.
+
 
 
       </p>
