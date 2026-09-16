@@ -29,7 +29,7 @@ const Projects = () => {
       description: "Migrated a live Next.js e-commerce platform with a 122-product catalog from managed services to self-managed AWS infrastructure using EC2, RDS PostgreSQL, S3, and CloudFront. Provisioned an Amazon Linux 2023 EC2 environment running Next.js behind Nginx with PM2, deployed PostgreSQL on RDS within a VPC, and secured private S3 media through CloudFront Origin Access Control. Replaced the Supabase client SDK with Prisma 7 across product, order, admin, and bulk-import workflows after validating the migration against local PostgreSQL. Built a Node.js migration script to transfer approximately 900 product images from Cloudinary to S3 and automatically rewrite database URLs to CloudFront. Applied cost-conscious infrastructure decisions including Availability Zone placement, resource-scoped IAM policies, and swap-based build optimization.",
       tech: ["AWS EC2", "AWS RDS", "Amazon S3", "Amazon Cloudfront", "AWS IAM", "Amazon VPC", "Next.js", "TypeScript", "Prisma", "PostgreSQL", "Nginx", "Linux", "Cloud Migration"],
       github: "https://github.com/jagdeep2001kainth/kainth-ties",
-      demo: "https://http://3.149.252.165/"
+      demo: "http://3.149.252.165/"
     }
   ];
 
